@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\rustam\documents\visual studio 2017\projects\tp_1sem_algorithms\algorithms_7_1\algorithms_7_1\main.cpp(82): warning C4715: 'Vector<Athlete>::operator[]': not all control paths return a value
+c:\users\rustam\documents\visual studio 2017\projects\tp_1sem_algorithms\algorithms_7_1\algorithms_7_1\main.cpp(31): warning C4715: 'Athlete::operator=': not all control paths return a value
+  Algorithms_7_1.vcxproj -> C:\Users\Rustam\Documents\Visual Studio 2017\Projects\TP_1sem_Algorithms\Algorithms_7_1\Debug\Algorithms_7_1.exe
+  Algorithms_7_1.vcxproj -> C:\Users\Rustam\Documents\Visual Studio 2017\Projects\TP_1sem_Algorithms\Algorithms_7_1\Debug\Algorithms_7_1.pdb (Partial PDB)
